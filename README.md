@@ -5,7 +5,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 A nestjs typescript server side application that trace user's availability and what user's is doing on the application with ** JWT token **
-user can UPLOAD, UPDATE, DELETE.
+user can UPLOAD, UPDATE, DELETE, POST.
 
 ## Installation
 
